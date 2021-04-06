@@ -109,22 +109,3 @@ Control::Control(Person OBJ)
 
 
 
-/*
-TODO List :
-
-* بتزود طول المربع
-if (OBJ.paddingBottom > 0 && OBJ.paddingTop > 0)
-            {
-                OBJ.paddingBottom++;
-                OBJ.paddingTop--;
-            }
-
-
-* بتقلل طول المربع
-if (Key == "Button" && OBJ.paddingBottom < Height)
-        {
-
-            OBJ.paddingTop++;
-            OBJ.paddingBottom--;
-        }
-*/
