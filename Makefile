@@ -4,7 +4,7 @@ LDFLAGS =  -fsanitize=address
 
 GARBAGE = */*.gch
 OBJ = functions.o main.o Person.o Control.o
-EXEC = TEST
+EXEC = ShapeMovement
 PERSONCPP = Person/*
 CONTROLCPP = Control/*
 FUNCPP = Functions/*
